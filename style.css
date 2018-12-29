@@ -1,0 +1,44 @@
+        * {
+            margin: 0 auto;
+            box-sizing: border-box;
+            text-align: center;
+            padding: 15x;
+            letter-spacing: 0.5px
+        }
+        
+        div.app {
+            margin-top: 25px
+        }
+        
+        h3 {
+            padding: 10px;
+            margin: 30px;
+            border: 1px solid black;
+            letter-spacing: 3px;
+            background-color: rgb(236, 204, 204);
+        }
+        
+        label,
+        select {
+            padding-bottom: 50px;
+            margin-left: 7px
+        }
+        
+        em {
+            margin-left: 7px;
+            letter-spacing: 1px;
+            border-bottom: .5px solid black
+        }
+        
+        input {
+            border: 2px solid rosybrown;
+            height: 30px;
+        }
+        
+        div .cash {
+            letter-spacing: 1.2px;
+            padding: 12px;
+            background-color: rgb(248, 155, 144);
+            margin-left: 70px;
+            margin-right: 70px
+        }
